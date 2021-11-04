@@ -2,7 +2,7 @@
 ### Seja Bem-vindo ao meu GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 • 🎓 Estudando desenvolvimento Web focado em front. 
 
-• 🎓 Estudante de Análise e desenvolvimento de sistemas 1/5
+• 🎓 Estudante de Análise e desenvolvimento de sistemas
 
 • 📍 Teresina - PI
 
